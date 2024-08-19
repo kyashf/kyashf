@@ -1,4 +1,4 @@
-# Maths weird problem *This loop never end*
+# Maths weird problem *This loop will never end*
 
 num = int(input("Enter the Natural Number: "))
 while num > 0:
